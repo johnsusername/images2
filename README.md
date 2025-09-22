@@ -21,12 +21,12 @@ width="400px" height="400px"/>
 alt="penguin sliding" 
 width="400px" height="400px"/>
 
-<a href="https://animalia.bio/emperor-penguin" target="link"></a>
+<p><a href="https://animalia.bio/emperor-penguin" target="link"></a></p>
 
 <img src="https://amywhiteheadresearch.wordpress.com/wp-content/uploads/2014/02/7211911226607636c9145ade61e54908.jpeg?w=611&h=408" 
 alt="penguin being fed" 
 width="500px" height="408px"/>
 
-<a href="https://amywhiteheadresearch.wordpress.com/wp-content/uploads/2014/02/7211911226607636c9145ade61e54908.jpeg?w=611&h=408" target="link"></a>
+<p><a href="https://amywhiteheadresearch.wordpress.com/wp-content/uploads/2014/02/7211911226607636c9145ade61e54908.jpeg?w=611&h=408" target="link"></a></p>
     </body>
 </html>
