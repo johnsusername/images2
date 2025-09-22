@@ -9,24 +9,24 @@
         <meta name="keywords" content="penguins">
         <meta name="description" content=" welcome to my gallery of penguins">  
     </head>
-
+This is my gallery of penguins. I created it because penguins are cool.
  <body>
 <img src="https://access-ci.org/wp-content/uploads/2023/07/penguin-1536x1024.jpg" 
 alt="penguins on coast" 
 width="400px" height="400px"/>
 
-<p><a href="https://access-ci.org/wp-content/uploads/2023/07/penguin-1536x1024.jpg" target="link">click here for link</a></p>
+<p><a href="https://access-ci.org/wp-content/uploads/2023/07/penguin-1536x1024.jpg" target="_blanlk">click here for link</a></p>
 
 <img src="https://s3.animalia.bio/animals/photos/small/1x1/emperor-penguins-3.webp?id=f6f1ea1f562e1716757f1785f1478fbf" 
 alt="penguin sliding" 
 width="400px" height="400px"/>
 
-<p><a href="https://animalia.bio/emperor-penguin" target="link"></a></p>
+<p><a href="https://animalia.bio/emperor-penguin" target="_blank">click here for link</a></p>
 
 <img src="https://amywhiteheadresearch.wordpress.com/wp-content/uploads/2014/02/7211911226607636c9145ade61e54908.jpeg?w=611&h=408" 
 alt="penguin being fed" 
 width="500px" height="408px"/>
 
-<p><a href="https://amywhiteheadresearch.wordpress.com/wp-content/uploads/2014/02/7211911226607636c9145ade61e54908.jpeg?w=611&h=408" target="link"></a></p>
+<p><a href="https://amywhiteheadresearch.wordpress.com/wp-content/uploads/2014/02/7211911226607636c9145ade61e54908.jpeg?w=611&h=408" target="_blank">click here for link.</a></p>
     </body>
 </html>
