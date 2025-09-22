@@ -15,7 +15,7 @@
 alt="penguins on coast" 
 width="400px" height="400px"/>
 
-<a href="https://access-ci.org/wp-content/uploads/2023/07/penguin-1536x1024.jpg" target="link"></a>
+<p><a href="https://access-ci.org/wp-content/uploads/2023/07/penguin-1536x1024.jpg" target="link">click here for link</a></p>
 
 <img src="https://s3.animalia.bio/animals/photos/small/1x1/emperor-penguins-3.webp?id=f6f1ea1f562e1716757f1785f1478fbf" 
 alt="penguin sliding" 
